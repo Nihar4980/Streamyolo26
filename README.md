@@ -2,7 +2,7 @@
 
 ## streaming perception object detection for Autonmous Vehicle
 <p align='left'>
-  <img src='[assets/Streamyolo26_flowchart.png](https://github.com/Nihar4980/Streamyolo26/blob/main/assests/Streamyolo26_flowchart.png' width='721'/>
+  <img src='https://github.com/Nihar4980/Streamyolo26/blob/main/assests/Streamyolo26_flowchart.png' width='721'/>
 </p>
 
 
