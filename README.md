@@ -1,10 +1,10 @@
 # Streamyolo26
 
-## Exploiting implicit knowledge for streaming perception object detection
+## streaming perception object detection for Autonmous Vehicle
 <p align='left'>
-  <img src='assets/Streamyolo26_flowchart.png' width='721'/>
+  <img src='[assets/Streamyolo26_flowchart.png](https://github.com/Nihar4980/Streamyolo26/blob/main/assests/Streamyolo26_flowchart.png' width='721'/>
 </p>
-![image alt](https://github.com/Nihar4980/Streamyolo26/blob/main/assests/Streamyolo26_flowchart.png)
+
 
 ## Benchmark
 
