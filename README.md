@@ -57,11 +57,11 @@ The hash strings represent different video sequences in Argoverse, and `ring_fro
 # basic python libraries    py3.7+ torch1.7.1+mmcv1.1.5   or  py3.9+torch1.13.1+mmcv2.0.0
 conda create --name streamyolo26 python=3.10           
 
-pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
-# or torch1.13.1+cu116   
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu134
+ 
 
-pip3 install yolox==0.3
-git clone git@github.com:GjtZ/ISYOLO.git
+pip install -U ultralytics
+git clone https://github.com/Nihar4980/Streamyolo26.git
 
 
 
