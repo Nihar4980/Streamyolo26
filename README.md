@@ -65,20 +65,6 @@ git clone https://github.com/Nihar4980/Streamyolo26.git
 
 
 
-cd ISYOLO/
-
-# add ISYOLO to PYTHONPATH and add this line to ~/.bashrc or ~/.zshrc (change the file accordingly)
-ADDPATH=$(pwd)
-echo export PYTHONPATH=$PYTHONPATH:$ADDPATH >> ~/.bashrc
-source ~/.bashrc
-
-# Installing `mmcv` for the official sAP evaluation:
-# Please replace `{cu_version}` and ``{torch_version}`` with the versions you are currently using.
-# You will get import or runtime errors if the versions are incorrect.
-pip install mmcv-full==1.1.5 -f https://download.openmmlab.com/mmcv/dist/{cu_version}/{torch_version}/index.html
-# pip install mmcv-full==1.1.5 -f https://download.openmmlab.com/mmcv/dist/cu110/torch1.7.1/index.html
-# pip install mmcv==2.0.0 -f https://download.openmmlab.com/mmcv/dist/cu116/torch1.13/index.html     
-```
 
 </details>
 
