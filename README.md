@@ -27,10 +27,9 @@ You can download Argoverse-1.1 full dataset and annotation from [HERE](https://w
 The folder structure should be organized as follows before our processing.
 
 ```shell
-ISYOLO
+StreamYOLO26
 ├── exps
-├── tools
-├── yolox
+├── yolo26
 ├── data
 │   ├── Argoverse-1.1
 │   │   ├── annotations
@@ -56,7 +55,7 @@ The hash strings represent different video sequences in Argoverse, and `ring_fro
 
 ```shell
 # basic python libraries    py3.7+ torch1.7.1+mmcv1.1.5   or  py3.9+torch1.13.1+mmcv2.0.0
-conda create --name streamyolo python=3.7         # or conda create --name streamyolo python=3.9  
+conda create --name streamyolo26 python=3.10           
 
 pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
 # or torch1.13.1+cu116   
