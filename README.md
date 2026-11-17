@@ -1,5 +1,9 @@
 # Streamyolo26
 
+## Paper
+
+The repository contains the code for the paper: (To be filled...)
+
 ## streaming perception object detection for Autonmous Vehicle
 <p align='left'>
   <img src='https://github.com/Nihar4980/Streamyolo26/blob/main/assests/Streamyolo26_flowchart.png' width='721'/>
